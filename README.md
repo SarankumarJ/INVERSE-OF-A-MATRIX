@@ -18,7 +18,7 @@ assign the given values to the variables.
 ## Step 4:
 End the program.
 
-Program:
+
 ## Program:
 
 ~~~
@@ -40,5 +40,5 @@ print(s)
 ![gitlogo](output.png)
 
 ## Result:
-Thus the inverse of given matrix is successfully solved using python program
+The inverse of given matrix is successfully solved using python program
 
